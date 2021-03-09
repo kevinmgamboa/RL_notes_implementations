@@ -18,11 +18,11 @@ According to the DeepMind Team, the MuZero implementation framework can be usefu
 * Final publication in Dec 2020 - (link)[https://www.nature.com/articles/s41586-020-03051-4]
 * Official DeepMind blog with nice visualizations of the algorithm - (link)[https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules]
 * Julian Schrittwieser's blog contains information about MuZero implementations - (link)[http://www.furidamu.org/blog/2020/05/02/opensource-muzero-implementations/]
-** Pseudocode description of the MuZero algorithm - (link)[https://arxiv.org/src/1911.08265v2/anc/pseudocode.py]
-** (YuriCat/MuZeroJupyterExample)[https://github.com/YuriCat/MuZeroJupyterExample]
-** (How To Build Your Own MuZero AI Using Python from Applied Data Science)[https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a]
-** (johan-gras/MuZero)[https://github.com/johan-gras/MuZero]
-** (Zeta36/muzero)[https://github.com/Zeta36/muzero]
+  * Pseudocode description of the MuZero algorithm - (link)[https://arxiv.org/src/1911.08265v2/anc/pseudocode.py]
+  * (YuriCat/MuZeroJupyterExample)[https://github.com/YuriCat/MuZeroJupyterExample]
+  * (How To Build Your Own MuZero AI Using Python from Applied Data Science)[https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a]
+  * (johan-gras/MuZero)[https://github.com/johan-gras/MuZero]
+  * (Zeta36/muzero)[https://github.com/Zeta36/muzero]
 
 ## Other Algorithms
 * AlphaZero Implementation - (link)[https://github.com/YuriCat/MuZeroJupyterExample]
